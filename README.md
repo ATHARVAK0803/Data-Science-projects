@@ -40,7 +40,7 @@ Follow these steps to get started:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/data-science-project.git
+   git clone https://github.com/ATHARVAK0803/data-science-project.git
    cd data-science-project
    ```
 
