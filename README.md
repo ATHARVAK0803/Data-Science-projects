@@ -1,6 +1,6 @@
 # Data Science Project Repository
 
-Welcome to the **Data Science Project** repository! This repository hosts three exciting machine learning projects: **Iris Flower Classification**, **Titanic Survival Prediction**, and **Credit Card Fraud Detection**. Each project demonstrates the use of data science techniques to solve real-world problems. 🚀
+Welcome to the **Data Science Project** repository! This repository hosts three exciting machine learning projects: **Iris Flower Classification**, **Titanic Survival Prediction**, and **Credit Card Fraud Detection**. Each project demonstrates the use of data science techniques to solve real-world problems. 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -19,17 +19,17 @@ This repository is designed as a comprehensive guide to implement and experiment
 
 ## Projects Overview
 
-### 1. Iris Flower Classification 🌸
+### 1. Iris Flower Classification 
 - **Objective:** Classify iris flowers into three species (_setosa_, _versicolor_, and _virginica_) based on sepal and petal dimensions.
 - **Dataset:** [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris) (UCI Machine Learning Repository)
 - **Model Used:** Logistic Regression, Decision Trees, and Random Forest.
 
-### 2. Titanic Survival Prediction 🚢
+### 2. Titanic Survival Prediction 
 - **Objective:** Predict the survival of Titanic passengers based on their demographic and socio-economic features.
 - **Dataset:** [Titanic Dataset](https://www.kaggle.com/c/titanic/data) (Kaggle)
 - **Model Used:** Support Vector Machines, Gradient Boosting, and more.
 
-### 3. Credit Card Fraud Detection 💳
+### 3. Credit Card Fraud Detection 
 - **Objective:** Identify fraudulent credit card transactions from a given dataset.
 - **Dataset:** [Credit Card Fraud Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) (Kaggle)
 - **Model Used:** Logistic Regression, Naive Bayes, and Neural Networks.
@@ -57,8 +57,6 @@ Follow these steps to get started:
 - Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 - Tools: Jupyter Notebook, Git
 
-## Acknowledgements
 
-Special thanks to the creators and contributors of the open datasets used in these projects. 🎉
 
 
