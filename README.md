@@ -1,4 +1,4 @@
-# Data Science Projects — Iris, Titanic & Fraud Detection
+# Data-Analysis-Projects — Iris, Titanic & Fraud Detection
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-lightgrey)
